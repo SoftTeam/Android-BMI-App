@@ -1,0 +1,12 @@
+package com.example.bmi;
+
+import android.app.Activity;
+
+public class Report extends Activity {
+	/** Called when the activity is first created. */
+	8        @Override
+	9        public void onCreate(Bundle savedInstanceState) {
+	10               super.onCreate(savedInstanceState);
+	11               setContentView(R.layout.report);
+
+}
